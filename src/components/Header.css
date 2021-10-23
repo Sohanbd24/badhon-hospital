@@ -1,0 +1,8 @@
+.for-header{
+    border: 3px solid rgb(247, 236, 236);
+    background-color: rgb(240, 236, 200);
+    display: flex;
+    gap: 150px;
+    text-align: center;
+    
+}
